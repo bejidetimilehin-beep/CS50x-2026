@@ -1,0 +1,7 @@
+SUCCESS: User admin logged in
+FAILED: User guest login attempt
+FAILED: User admin login attempt
+SUCCESS: User sentinel logged in
+FAILED: User root login attempt
+SUCCESS: User analyst logged in
+FAILED: User guest login attempt
