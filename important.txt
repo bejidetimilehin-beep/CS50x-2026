@@ -1,0 +1,2 @@
+This is an important security file. Do not modify this file without authorization.
+UNAUTHORIZED CHANGE DETECTED
