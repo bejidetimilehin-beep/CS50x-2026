@@ -1,0 +1,15 @@
+
+# SENTINEL DATA TYPES
+# Learning Python with CS50x-2026
+
+name = input("Enter your name: ")
+age_text = input("Enter your age: ")
+
+try:
+    age = int(age_text)
+    print("\n=== SENTINEL PROFILE ===")
+    print(f"Name: {name}")
+    print(f"Age: {age}")
+    print(f"Next year, you will be {age + 1}.")
+except ValueError:
+    print("ERROR: Please enter your age as a whole number.")
